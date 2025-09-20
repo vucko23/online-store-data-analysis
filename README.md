@@ -1,6 +1,6 @@
 # 🛒 Online Store Data Analysis
 
-![Python](https://img.shields.io/badge/Python-3.11-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.13-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![pandas](https://img.shields.io/badge/pandas-Data_Analysis-blue.svg)
 ![Visualization](https://img.shields.io/badge/Visualization-Matplotlib%20%7C%20Seaborn-orange.svg)
